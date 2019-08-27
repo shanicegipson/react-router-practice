@@ -31,3 +31,24 @@
     transform: rotate(360deg);
   }
 }
+
+.app {
+  background: #105e62;
+  margin: 5px;
+  font-size: 20px;
+} 
+
+.nav-link {
+  padding: 20px;
+  margin: 20px;
+  display: inline-block;
+  border: 4px solid #6bc5d2;
+}
+
+.nav-link:hover {
+  background-color: #b5525c;
+}
+
+h1 {
+  text-align: center;
+}
